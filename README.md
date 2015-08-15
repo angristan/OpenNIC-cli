@@ -1,6 +1,13 @@
 # OpenNIC-cli
 Set the nearest OpenNIC servers as your DNS resolvers. 
 
+##Installation
+
+Dependencies :
+- curl
+
+On Ubuntu you must run `sudo apt-get remove resolvconf ubuntu-minimal` before running the script.
+
 ## Use
 `wget https://raw.githubusercontent.com/Angristan/OpenNIC-cli/master/OpenNIC-cli.sh`
 
@@ -8,7 +15,7 @@ Set the nearest OpenNIC servers as your DNS resolvers.
 
 `./OpenNIC-cli.sh`
 
-On Ubuntu you must run `sudo apt-get purge resolvconf` before running the script.
+You must run this script as root.
 
 ## Contact / Feedback 
 
