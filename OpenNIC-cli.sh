@@ -11,3 +11,4 @@ sed -i 's|nameserver|#nameserver|' /etc/resolv.conf #Disable previous DNS server
 echo "nameserver $ns1
 nameserver $ns2" >> /etc/resolv.conf #Set the DNS servers
 chattr +i /etc/resolv.conf #Disallow the modification of the file
+fi
