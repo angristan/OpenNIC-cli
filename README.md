@@ -9,11 +9,11 @@ Dependencies :
 On Ubuntu you must run `sudo apt-get remove resolvconf ubuntu-minimal` before running the script.
 
 ## Use
-`wget https://raw.githubusercontent.com/Angristan/OpenNIC-cli/master/openNIC-cli.sh`
+`wget https://raw.githubusercontent.com/Angristan/OpenNIC-cli/master/opennic-cli.sh`
 
-`chmod +x openNIC-cli.sh`
+`chmod +x opennic-cli.sh`
 
-`./openNIC-cli.sh`
+`./opennic-cli.sh`
 
 You must run this script as root.
 
