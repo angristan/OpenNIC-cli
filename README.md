@@ -1,7 +1,7 @@
 # OpenNIC-cli
 Set the nearest [OpenNIC](https://www.opennicproject.org/) servers as your DNS resolvers. 
 
-##Installation
+## Installation
 
 Dependencies :
 
