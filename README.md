@@ -3,7 +3,7 @@ Set the nearest [OpenNIC](https://www.opennicproject.org/) servers as your DNS r
 
 ## Installation
 
-Dependencies :
+Dependencies:
 
 `curl`
 
@@ -18,4 +18,4 @@ chmod +x opennic-cli.sh
 
 ## License
 
-[The unlicense](https://github.com/Angristan/ArchLinux-DNS-server/blob/master/LICENSE) : do whatever you want with the code.
+[The unlicense](https://github.com/Angristan/ArchLinux-DNS-server/blob/master/LICENSE): do whatever you want with the code.
